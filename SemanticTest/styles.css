@@ -1,0 +1,18 @@
+body {
+    background-color: blueviolet;
+
+}
+p {
+    color: red;
+    width: 500px;
+    border: 1px solid black;
+    margin: 2rem;
+    padding: 2rem;
+  }
+
+#good {
+
+    color: forestgreen;
+}
+
+  
